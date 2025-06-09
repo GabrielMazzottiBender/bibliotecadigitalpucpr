@@ -26,3 +26,7 @@ Siga o menu interativo para utilizar as funcionalidades.
 ## Contribuindo
 
 Leia o [guia de contribuição](CONTRIBUTING.md) para saber como ajudar no projeto.
+
+## 📋 Feedback dos usuários
+
+Ajude-nos a melhorar! [Preencha o formulário de feedback](FEEDBACK.md).
