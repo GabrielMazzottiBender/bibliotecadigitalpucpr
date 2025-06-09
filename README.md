@@ -13,7 +13,16 @@ Este projeto é um sistema simples em Python para ajudar na gestão de arquivos 
 
 ## Como usar
 
-Execute o programa: bibliotecadigitalpucpr
+Execute o programa:
 
 ```bash
-codigo_inicial.py
+python biblioteca.py
+```
+
+Siga o menu interativo para utilizar as funcionalidades.
+
+---
+
+## Contribuindo
+
+Leia o [guia de contribuição](CONTRIBUTING.md) para saber como ajudar no projeto.
